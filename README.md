@@ -1,3 +1,3 @@
 # Clothing-Classification
-## Platform: Python
+## Technologies used: Python
 <img src="colab.png" width="128" height="128">
